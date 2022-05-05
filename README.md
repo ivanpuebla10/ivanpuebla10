@@ -2,7 +2,6 @@
 
 - 📚 Teaching Assistant - The Bridge - FullStack Developer
 - 📩 You can contact me by e-mail: ivanpuebla94@gmail.com
-- 🤗 Always learning, never give up
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ivanpuebla10 " alt="ivanpuebla10" /> </p>
 
 <div align="center">
