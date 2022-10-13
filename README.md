@@ -1,6 +1,5 @@
 ### Hi There, I'm Iván 👋
 
-- 📚 Teaching Assistant - The Bridge - FullStack Developer
 - 📩 You can contact me by e-mail: ivanpuebla94@gmail.com
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ivanpuebla10 " alt="ivanpuebla10" /> </p>
 
